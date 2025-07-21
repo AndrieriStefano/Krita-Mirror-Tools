@@ -1,7 +1,9 @@
 # Krita Mirror Tools
 
-A simple Krita plugin that add a Docker button to symmetrize a layer.
-Work in Progress
+A simple Krita plugin that add a Docker button to symmetrize a layer.  
+Work in Progress  
+  
+![Preview](preview.png)  
  
 ##  Install
 
