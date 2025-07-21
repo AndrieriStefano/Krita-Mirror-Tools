@@ -9,13 +9,13 @@ Work in Progress
 Extract everything inside the `pykrita` folder.
 
 ### Linux
-~/.local/share/krita/pykrita/
-├── mirror_tools/```
-└── mirror_tools.desktop
+~/.local/share/krita/pykrita/  
+├── mirror_tools/  
+└── mirror_tools.desktop  
 
 ### Windows
-%APPDATA%\krita\pykrita\
-├── mirror_tools\
-└── mirror_tools.desktop
+%APPDATA%\krita\pykrita\  
+├── mirror_tools\  
+└── mirror_tools.desktop  
 
 Enable the plugin in **Settings > Configure Krita > Python Plugin Manager**.
