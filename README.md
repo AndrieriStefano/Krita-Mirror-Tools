@@ -1,2 +1,2 @@
-# krita-mirror-tools
+# Krita Mirror Tools
  
