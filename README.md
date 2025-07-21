@@ -10,7 +10,7 @@ Extract everything inside the `pykrita` folder.
 
 ### Linux
 ~/.local/share/krita/pykrita/
-├── mirror_tools/
+├── mirror_tools/```
 └── mirror_tools.desktop
 
 ### Windows
